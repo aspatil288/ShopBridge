@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24aa7ddc-4878-47bf-a471-4ade5ee0f55c": {
+      "ProjectGuid": "24aa7ddc-4878-47bf-a471-4ade5ee0f55c",
+      "DisplayName": "WebApplication",
+      "ColorIndex": 0
+    },
+    "29f4f7d9-2edb-4556-b557-6494d87711a1": {
+      "ProjectGuid": "29f4f7d9-2edb-4556-b557-6494d87711a1",
+      "DisplayName": "Entity",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c45fb076-f0bf-4a17-94db-d8b50e84a265": {
+      "ProjectGuid": "c45fb076-f0bf-4a17-94db-d8b50e84a265",
+      "DisplayName": "ShopBridgeBLL",
+      "ColorIndex": 2
+    },
+    "e2a24fa0-ff91-47d7-904f-da3e7b3de1e4": {
+      "ProjectGuid": "e2a24fa0-ff91-47d7-904f-da3e7b3de1e4",
+      "DisplayName": "Utility",
+      "ColorIndex": 3
+    },
+    "940772c2-4577-4559-82f5-2f5c08d5e719": {
+      "ProjectGuid": "940772c2-4577-4559-82f5-2f5c08d5e719",
+      "DisplayName": "WebApplicationTest",
+      "ColorIndex": 4
+    },
+    "d2778c7a-5f04-4af6-a503-cf6bf6003850": {
+      "ProjectGuid": "d2778c7a-5f04-4af6-a503-cf6bf6003850",
+      "DisplayName": "WebApplicationTest",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
